@@ -1,0 +1,24 @@
+Camera Intrinsics
+
+IntrinsicMatrix
+697.390028	0.000000	0.000000
+0.000000	696.505618	0.000000
+297.822303	237.660886	1.000000
+
+FocalLength
+697.390028	696.505618
+
+PrincipalPoint
+297.822303	237.660886
+
+Skew
+0.000000
+
+
+Lens Distortion
+
+RadialDistortion
+0.222131	-1.276740	2.355671
+
+TangentialDistortion
+0.001483	-0.003488
